@@ -1,0 +1,10 @@
+# Security: Never commit API keys
+.env
+
+# Environments: Keep local settings local
+venv/
+env/
+
+# Python compiled files (clutter)
+__pycache__/
+*.pyc
