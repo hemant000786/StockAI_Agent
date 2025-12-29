@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-google-genai
+twilio
+beautifulsoup4
+requests
+python-dotenv
