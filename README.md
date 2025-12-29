@@ -1,10 +1,10 @@
 # 📈 StockAI Agent
 
-An automated financial analyst that scrapes stock market data and IPO listings, processes insights using **Google Gemini 1.5 Flash**, and sends a daily summary via **WhatsApp (Twilio)**.
+An automated financial analyst that scrapes stock market data and IPO listings, processes insights using **Google Gemini 2.5 Flash**, and sends a daily summary via **WhatsApp (Twilio)**.
 
 ## 🚀 Features
 * **Automated Scraping:** Fetches data from Screener.in (or your target site).
-* **AI Analysis:** Uses Gemini to filter high-potential IPOs (e.g., >1000 Cr Market Cap).
+* **AI Analysis:** Uses Gemini to filter high-potential IPOs (e.g., >500 Cr Market Cap).
 * **Workflow Management:** Orchestrated with **LangGraph**.
 * **Instant Alerts:** Delivers reports directly to WhatsApp.
 
